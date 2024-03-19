@@ -6,7 +6,10 @@ const drawerWidth = 240;
 export const JournalPage = () => {
   return (
     <JournalLayout>
-      <Typography>Lorem fistrum a peich ese pedazo de benemeritaar ese hombree papaar papaar llevame al sircoo.</Typography>
+      <Typography>
+        Lorem fistrum a peich ese pedazo de benemeritaar ese hombree papaar papaar llevame al sircoo.
+        Lorem fistrum a peich ese pedazo de benemeritaar ese hombree papaar papaar llevame al sircoo.
+      </Typography>
     </JournalLayout>
   )
 }
