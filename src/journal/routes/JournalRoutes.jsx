@@ -5,7 +5,7 @@ import { LoginPage } from '../../auth/pages'
 export const JournalRoutes = () => {
   return (
     <Routes>
-      <Route path="/" element={ <LoginPage /> } />
+      <Route path="/" element={ <JournalPage /> } />
 
       <Route path="/*" element={ <Navigate to="/" /> } />
     </Routes>
